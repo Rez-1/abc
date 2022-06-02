@@ -1,28 +1,22 @@
 {
-	"name": "gelin",
+	"name": "abc",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"webpack": "webpack"
+		
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Rez-1/gelin.git"
+		"url": "git+https://github.com/Rez-1/abc.git"
 	},
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/Rez-1/gelin/issues"
+		"url": "https://github.com/Rez-1/abc/issues"
 	},
-	"homepage": "https://github.com/Rez-1/gelin#readme",
+	"homepage": "https://github.com/Rez-1/abc#readme",
 	"devDependencies": {
-		"babel-core": "^6.24.1",
-		"babel-loader": "^6.4.1",
-		"babel-preset-es2015": "^6.24.1",
-		"babel-preset-react": "^6.24.1",
-		"react": "^15.5.4",
-		"react-dom": "^15.5.4",
-		"webpack": "^2.4.1"
+
 	}
 }
