@@ -1,0 +1,11 @@
+header, footer {
+	margin: auto 0;
+	width: 100%;
+}
+
+.ng-touched.ng-invalid~.invalid-feedback {
+	display: block;
+}
+.ng-touched.ng-valid~.valid-feedback {
+	display: block;
+}
